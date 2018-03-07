@@ -1,0 +1,6 @@
+*~
+*.pyc
+__pycache__
+autoreload.egg-info/
+.idea/
+.pytest_cache/
